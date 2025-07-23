@@ -1,6 +1,6 @@
 # Case Study: Phase 1 - Foundational CRM for Individual Clients
 
-This project represents the first phase of a larger strategic operational transformation. It serves as a real-world case study in building a foundational CRM system from scratch for a boutique financial strategy firm. This project is also intended to serve as the capstone for the Google Project Management Professional Certificate.
+This project represents the first phase of a larger strategic operational transformation. It serves as a real-world case study in building a foundational CRM system from scratch for a boutique financial strategy firm.
 
 ---
 
